@@ -1,0 +1,2 @@
+# challenges
+Haiqu public challenges
