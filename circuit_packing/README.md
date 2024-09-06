@@ -20,7 +20,8 @@ On a QPU, certain qubits perform better than others. The [layout transpilation s
 
 For example, consider the error per layered gate from the IBM Fez device:  
 
-<image> 
+![EPLG ibm_fez](ibm_fez.jpg "EPLG ibm_fez")
+
 
 The challenge is to select qubits for the replicated circuits in a way that maximizes performance. A greedy approach could be used, where the best available qubits are selected for each additional copy.
 
