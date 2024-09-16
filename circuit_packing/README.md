@@ -1,4 +1,4 @@
-# QPU Circuit Packing
+# QPU Circuit Packing challenge for the Q-SITE Hackathon
 
 ### Summary
 
